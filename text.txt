@@ -15,3 +15,12 @@ for pushing code to the github
 git remote add origin https://github.com/bivash-ranjan-swain/Ecommerce-Application.git
 git branch -M main
 git push -u origin main
+
+git config --global user.name "name"
+git config --global user.email "email"
+git config --global core.editor "code --wait"
+git config --global core.autocrlf
+
+git log --oneline check points total
+git reset --hard/soft/mixed --hard Head~1 //going back to the code one step
+
