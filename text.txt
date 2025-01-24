@@ -1,0 +1,17 @@
+git and github
+git is a  version control system
+
+
+echo "# Ecommerce-Application" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/bivash-ranjan-swain/Ecommerce-Application.git
+git push -u origin main
+
+for pushing code to the github
+
+git remote add origin https://github.com/bivash-ranjan-swain/Ecommerce-Application.git
+git branch -M main
+git push -u origin main
