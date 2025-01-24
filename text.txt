@@ -24,3 +24,4 @@ git config --global core.autocrlf
 git log --oneline check points total
 git reset --hard/soft/mixed --hard Head~1 //going back to the code one step
 
+conflict -- confused git
